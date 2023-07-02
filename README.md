@@ -1,6 +1,6 @@
 # Amazon Clone
 
-This is a clone project of Amazon website designed using HTML and CSS.
+A simple non-responsive clone project of Amazon website designed using HTML and CSS.
 
 1. index.html file contains html code for the websites pages
    (save the file and open it using any browser like Microsoft Edge, Chrome, etc.,
